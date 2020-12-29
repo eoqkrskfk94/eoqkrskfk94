@@ -2,7 +2,6 @@
 
 Android Developer
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=eoqkrskfk94)](https://solved.ac/eoqkrskfk94)
 
 <!--
 **eoqkrskfk94/eoqkrskfk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=eoqkrskfk94)](https://solved.ac/eoqkrskfk94)
