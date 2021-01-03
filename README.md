@@ -2,6 +2,8 @@
 
 Android Developer
 
+블로그: https://velog.io/@eoqkrskfk94
+
 
 <!--
 **eoqkrskfk94/eoqkrskfk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
