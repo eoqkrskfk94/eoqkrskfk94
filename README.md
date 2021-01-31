@@ -5,11 +5,6 @@ Android Developer
 블로그: https://velog.io/@eoqkrskfk94
 
 
-![MJ's github stats](https://github-readme-stats.vercel.app/api?username=eoqkrskfk94)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoqkrskfk94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### :octocat: My Github Stats
 
 <!--
