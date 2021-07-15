@@ -7,6 +7,26 @@ Android Developer
 
 ### :octocat: My Github Stats
 
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+  <!--
+  <br/>
+  <img src="https://img.shields.io/badge/React Router-ca4245?style=flat-square&logo=React-Router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-10ac84?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-009432?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  -->
+</div>
+
 <!--
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=koeonyack&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
