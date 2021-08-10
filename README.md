@@ -2,7 +2,8 @@
 
 Android Developer
 
-블로그: https://velog.io/@eoqkrskfk94
+Blog: https://velog.io/@eoqkrskfk94
+Portfolio: 
 
 
 ### :octocat: My Github Stats
