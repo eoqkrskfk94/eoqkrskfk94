@@ -3,6 +3,7 @@
 Android Developer
 
 Graduated Handong University
+
 Currently working in Mobinity
 
 Blog: https://velog.io/@eoqkrskfk94
